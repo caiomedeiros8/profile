@@ -1,0 +1,42 @@
+*{
+	padding: 0;
+	margin: 0;
+	color: white;
+}
+body{
+	background-image: url("assets/lobo.jpg");
+}
+.foto2{
+	width: 350px;
+	height: 350px;
+	border-radius: 400px;
+	margin-left: 1120px;
+	margin-top: 10px;
+}
+.lobo{
+	width: 750px;
+	height: 750px;
+	background-image: url("https://www.urbanarts.com.br/imagens/produtos/148279/0/Ampliada/lobo-lapis-branco.jpg");
+}
+.titulo{
+	margin-left: 5px;
+	font-family: 'Merienda', cursive;
+
+}
+.insta{
+	width: 50px;
+	height: 50px;
+}
+.face{
+	width: 60px;
+	height: 60px;
+}
+.fonte{
+	font-size: 25px;
+	font-family: 'Lobster', cursive;
+}
+.div2{
+	width: 400px;
+	height: 300px;
+	margin-left: 1120px;
+}
